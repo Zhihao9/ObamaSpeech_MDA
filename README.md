@@ -11,7 +11,7 @@ It is a python project for analyzing Obama Speech. Here are some explanations fo
 
 External Data was cited from several sources:
 
-1. __stop_words_english.txt__: stopwords used in this study, cited from countwordsfree. <a href="https://countwordsfree.com" title="Text Processing Tools">https://countwordsfree.com</a>.
+1. __stop_words_english.txt__: stopwords used in this study, was cited from countwordsfree. <a href="https://countwordsfree.com" title="Text Processing Tools">https://countwordsfree.com</a>.
 
 2. __UnemploymentRate.xlsx__: Unemployment rate of the U.S. from 2002 to 2017, was cited from Macrotrends. <a href='https://www.macrotrends.net/countries/USA/united-states/unemployment-rate'>U.S. Unemployment Rate 1991-2022</a>. www.macrotrends.net. Retrieved 2022-08-28.
 
